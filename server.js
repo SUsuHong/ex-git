@@ -48,6 +48,7 @@ app.get("/productdetail/:ID",function(req,res){
         });
       });
 });
+//detail
 
 app.listen(8020);
 console.log('Express started at http://localhost :8020');
